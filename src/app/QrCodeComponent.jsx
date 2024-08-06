@@ -36,7 +36,7 @@ function QrCodeComponent() {
                         </div>
                         <p className="mt-6 text-xl ">
 
-                            The design system contains all the information for reusable components  and styles. It shows colors, typography styles, and components,  including various component states if they're interactive.
+                            The design system contains all the information for reusable components  and styles. It shows colors, typography styles, and components,  including various component states if they&apos;re interactive.
                         </p>
                     </div>
 
@@ -54,9 +54,9 @@ function QrCodeComponent() {
                             <ArrowRightIcon />
                         </div>
                         <p className="mt-6 text-xl  ">
-                            The high-fidelity designs help you build responsive, accessible  projects. Aim for precision rather than pixel-perfect replicas. For  guidance, see Josh Comeau's <span className="underline text-gray-500 cursor-pointer">
+                            The high-fidelity designs help you build responsive, accessible  projects. Aim for precision rather than pixel-perfect replicas. For  guidance, see Josh Comeau&apos;s <span className="underline text-gray-500 cursor-pointer">
                                 <Link href="#">
-                                    "Chasing the Pixel-Perfect Dream."
+                                    &quot;Chasing the Pixel-Perfect Dream.&quot;
                                 </Link>
                             </span>
                         </p>
